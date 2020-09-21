@@ -1,0 +1,12 @@
+jishaku
+toml
+uvloop
+parsedatetime
+pytz
+discord.py[voice]
+tortoise-orm[accel]
+aerich
+asyncpg
+python-rapidjson
+ciso8601
+Babel
